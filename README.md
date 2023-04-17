@@ -1,6 +1,6 @@
 # HibernateProjects
 
-Hospital Management System is a software system designed to manage and organize the operations of a hospital. Hibernate is an open-source Object-Relational Mapping (ORM) tool for Java that simplifies database programming by mapping database tables to Java objects. Using Hibernate Annotations, we can map our Java classes to database tables and configure the object-relational mapping between them.
+I).Hospital Management System is a software system designed to manage and organize the operations of a hospital. Hibernate is an open-source Object-Relational Mapping (ORM) tool for Java that simplifies database programming by mapping database tables to Java objects. Using Hibernate Annotations, we can map our Java classes to database tables and configure the object-relational mapping between them.
 
 This Hospital Management System using Hibernate Annotations allows the retrieval and management of the following entities by their ID:
 
